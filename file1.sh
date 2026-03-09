@@ -1,2 +1,2 @@
-echo TEST
-echo LINE2
+echo TEST2
+echo LINE1
